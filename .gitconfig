@@ -1,0 +1,7 @@
+[user]
+	name = Toby Matt
+	email = tobematthew@gmail.com
+[core]
+	editor = emacs
+[init]
+	defaultBranch = main
