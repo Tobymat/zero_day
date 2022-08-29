@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1661797317,,"wq!"
+|2,0,1661802063,,"wq!"
+:wq
+|2,0,1661802024,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +27,48 @@
 # Registers:
 
 # File marks:
-'0  9  14  ~/zero_day/README.md
-|4,48,9,14,1661797317,"~/zero_day/README.md"
+'0  9  14  ~/README.md
+|4,48,9,14,1661802063,"~/README.md"
+'1  9  13  ~/zero_day/README.md
+|4,49,9,13,1661802024,"~/zero_day/README.md"
+'2  9  14  ~/zero_day/README.md
+|4,50,9,14,1661797317,"~/zero_day/README.md"
 
 # Jumplist (newest first):
+-'  9  14  ~/README.md
+|4,39,9,14,1661802063,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1661802041,"~/README.md"
+-'  9  13  ~/zero_day/README.md
+|4,39,9,13,1661802024,"~/zero_day/README.md"
+-'  9  13  ~/zero_day/README.md
+|4,39,9,13,1661802024,"~/zero_day/README.md"
 -'  9  14  ~/zero_day/README.md
 |4,39,9,14,1661797317,"~/zero_day/README.md"
+-'  9  14  ~/zero_day/README.md
+|4,39,9,14,1661797317,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1661797038,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1661797038,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1661797038,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
 |4,39,1,0,1661797038,"~/zero_day/README.md"
 
 # History of marks within files (newest to oldest):
 
-> ~/zero_day/README.md
-	*	1661797312	0
+> ~/README.md
+	*	1661802059	0
 	"	9	14
 	^	9	15
+	.	10	0
+	+	9	15
+	+	10	0
+
+> ~/zero_day/README.md
+	*	1661802020	0
+	"	9	13
+	^	9	14
 	.	9	14
 	+	9	14
